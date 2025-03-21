@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-www.linkedin.com/in/josé-enrique-gallego-león-b33710301
+<a href="www.linkedin.com/in/josé-enrique-gallego-león-b33710301"><img src="https://imgs.search.brave.com/HonSm_KKpi-ESMu57p4LIWHYFsYtYJTcHMg9mi4HQhY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ibG9n/LndhYWxheHkuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIx/LzAxLzMtMS5wbmc" alt="linkedin" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
