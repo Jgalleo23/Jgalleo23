@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/josé-enrique-gallego-león-b33710301" target="blank">Linkedin</a>
+<p>www.linkedin.com/in/josé-enrique-gallego-león-b33710301</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
