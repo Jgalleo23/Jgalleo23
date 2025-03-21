@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm José Enrique Gallego León</h1>
 <h3 align="center">Programador junior que le apasiona el desarrollo de aplicaciones de todo tipo</h3>
 
-- 🔭 I’m currently working on [Pethome](https://github.com/Jgalleo23/PetHome.git)
+- 🔭 I’m currently working on Odoo
 
-- 🌱 I’m currently learning **Spring, Spring Boot, Docker, Proxmox**
+- 🌱 I’m currently learning **Odoo**
 
 - 📫 How to reach me **gallegoleonjoseenrique734@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jos%c3%a9-enrique-gallego-le%c3%b3n-b33710301/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jos%c3%a9-enrique-gallego-le%c3%b3n-b33710301/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/josé-enrique-gallego-león-b33710301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josé-enrique-gallego-león-b33710301" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
